@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+pytorch-lightning
+pytorch-forecasting
+pytorch-tabular
+shap
+stable-baselines3
+shimmy>=2.0
+tensorboard
