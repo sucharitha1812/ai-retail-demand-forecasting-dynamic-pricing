@@ -170,6 +170,8 @@ retail-ai-demand-pricing/
 │
 ├── README.md
 ├── retail-demand-forecasting-dynamic-pricing.ipynb
+├── retail-demand-forecasting-dynamic-pricing.py
+├── requirements.txt
 ├── retail-ai-project-report.pdf
 ├── retail-ai-project-presentation.pdf
 │
